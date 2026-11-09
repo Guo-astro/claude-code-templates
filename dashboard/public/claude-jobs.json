@@ -1,11 +1,10 @@
 {
-  "lastUpdated": "2026-11-08T03:02:02.642377+00:00",
-  "totalJobs": 104,
+  "lastUpdated": "2026-11-09T03:02:04.215030+00:00",
+  "totalJobs": 103,
   "sources": [
     "Anthropic",
     "HackerNews",
-    "RemoteOK",
-    "WeWorkRemotely"
+    "RemoteOK"
   ],
   "jobs": [
     {
@@ -737,26 +736,6 @@
         "Swift",
         "Kotlin",
         "Tailwind"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-upgrade-ai-experience-engineer-conversational-ai",
-      "company": "Upgrade",
-      "position": "AI Experience Engineer (Conversational AI)",
-      "location": "Remote",
-      "remote": true,
-      "salary": "$140K-$180K",
-      "description": "Headquarters: Canada (Remote) About the Role: An AI Experience Engineer owns the full lifecycle of the journeys our customers have with Upgrade's AI agent on chat, voice and email: creation, optimization, edge case handling and containment growth. They build journeys in Sierra's no-code tooling,...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
-      "postedAt": "2026-10-15T07:31:14+00:00",
-      "tags": [
-        "TypeScript",
-        "JavaScript",
-        "Rails",
-        "GraphQL"
       ],
       "companyIcon": ""
     },
