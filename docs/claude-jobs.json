@@ -1,10 +1,11 @@
 {
-  "lastUpdated": "2026-11-09T03:02:04.215030+00:00",
-  "totalJobs": 103,
+  "lastUpdated": "2026-11-10T03:02:18.491746+00:00",
+  "totalJobs": 106,
   "sources": [
     "Anthropic",
     "HackerNews",
-    "RemoteOK"
+    "RemoteOK",
+    "WeWorkRemotely"
   ],
   "jobs": [
     {
@@ -653,6 +654,50 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "wwr-airbnb-operations-engineer-biztech",
+      "company": "Airbnb",
+      "position": "Operations Engineer, BizTech",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Remote- USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+      "postedAt": "2026-10-18T07:31:05+00:00",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "AWS",
+        "GCP",
+        "Copilot"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "anth-5454800008",
+      "company": "Anthropic",
+      "position": "AI Outcomes Manager, Enterprise Tech",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "Join Anthropic's Customer Success team in a high-visibility & high-impact role driving AI adoption across a small number of enterprise accounts in our Enterprise Tech segment. As our dedicated Customer Success Manager for Enterprise Tech Customers you’ll be their partner and trusted advisor helping...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5454800008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5454800008",
+      "postedAt": "2026-10-16T21:12:59-04:00",
+      "tags": [
+        "Rust",
+        "Go",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
       "id": "anth-5454673008",
       "company": "Anthropic",
       "position": "Applied AI Engineer, Startups (Physical AI)",
@@ -736,6 +781,26 @@
         "Swift",
         "Kotlin",
         "Tailwind"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-upgrade-ai-experience-engineer-conversational-ai",
+      "company": "Upgrade",
+      "position": "AI Experience Engineer (Conversational AI)",
+      "location": "Remote",
+      "remote": true,
+      "salary": "$140K-$180K",
+      "description": "Headquarters: Canada (Remote) About the Role: An AI Experience Engineer owns the full lifecycle of the journeys our customers have with Upgrade's AI agent on chat, voice and email: creation, optimization, edge case handling and containment growth. They build journeys in Sierra's no-code tooling,...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+      "postedAt": "2026-10-15T07:31:14+00:00",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Rails",
+        "GraphQL"
       ],
       "companyIcon": ""
     },
